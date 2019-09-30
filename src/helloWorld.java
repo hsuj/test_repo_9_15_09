@@ -6,7 +6,7 @@ import java.util.ArrayList;
 
 public class helloWorld {
     public static void main(String[] args) throws Exception{
-        int numOfPts = 3000;
+        int numOfPts = 10000;
         double x = 0.0;
         double y = 0.0;
         ArrayList<String> lines = new ArrayList<String>();
